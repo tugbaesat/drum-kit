@@ -6,7 +6,7 @@ This is a drum kit, you can play the instruments with your keyboard!
 
 ## Live Demo of the Project: 📹
 
-[Drum Kit](https://simon-game-tugbaesat.vercel.app)
+[Drum Kit](https://drum-kit-tugbaesat.vercel.app)
 
 ## Technologies, Frameworks and Libraries: ☕️ 🐍 ⚛️
 - HTML
